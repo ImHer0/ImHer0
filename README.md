@@ -1,6 +1,6 @@
 ### Haaai 👋
 
-![alt text](cat.png)
+![alt text](cat.jpg)
 
  
 <!--
