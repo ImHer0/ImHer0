@@ -1,11 +1,13 @@
-<h1>Haaaaaaaaaaaaaaaai 👋</h1>
+<h1>Halloo 👋</h1>
 
-[![cat error](cat.jpg "kitty")](https://www.youtube.com/shorts/ZaDGYq6-UXc)
+Most programming I do is simply out of fun and curiosity
 
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+<img style="width:500px;height:300px;" src="cat.jpg" alt="cat">
+
+
 
 
 <h1>Check out my Datapack!</h1>
 
- [![datapack error](WW.png)](https://modrinth.com/datapack/witherswrath/)
+ [![datapack](WW.png)](https://modrinth.com/datapack/witherswrath/)
 <span style="font-family: 'Courier'; font-size: 0.7em;"> click the picture to check it out 😉 <span>
